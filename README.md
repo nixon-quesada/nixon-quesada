@@ -1,5 +1,6 @@
-<a href="https://ibb.co/nkSzyQ8"><img src="https://i.ibb.co/x5QJbz8/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" border="0" width="1080"></a>
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/nixon-quesada/nixon-quesada/assets/156434637/780b833f-220a-49c2-97c1-0ea12568b4fe)
 ## Hi there! I'm Nixon
+
 - 🌏 I'm a Data Scientist based in Philippines.
 - 📞 Contact me at nixon.quesada314@gmail.com
 - 📉 I'm constantly improving my skills on Data Science.
