@@ -7,9 +7,15 @@
 - 👽 I love Video Games!
 
 ## 🚀 About Me
-<p align="justify">I love Artificial Intelligence, I studied Electronics Engineering at Rizal Technological University and taught myself how to write codes
-so I can interface AI with my Engineering Knowledge to solve real world problems, AKA my hobbies 😆. I'm always looking for communities
-of like-minded people where we can all grow our skills and make something great.🪐</p>
+<p align="justify">🌟Turning Complex Data into Actionable Insights | Passionate about Machine Learning & AI 🌟
+
+As a passionate Data Scientist, I thrive at the intersection of technology and business, leveraging data to drive actionable insights and innovative solutions. With a strong foundation in statistics, machine learning, and data visualization, I am dedicated to uncovering patterns and trends that empower organizations to make informed decisions.
+
+🔍 My journey in data science began with a curiosity about how data shapes our world. Over the years, I’ve honed my skills in various programming languages, visualization tools, big data technologies, cloud platforms and neccessary tools that gives me an edge as a Data Scientist.
+
+💡 Whether it's building predictive models, optimizing algorithms, or creating compelling visualizations, I am committed to delivering results that not only meet but exceed expectations.
+
+📈 I believe in the power of data storytelling, and I am always eager to learn and adapt to the ever-evolving landscape of data science. Let’s connect and explore how we can leverage data to create impactful solutions together!🪐</p>
 
 ## Tech Stacks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
