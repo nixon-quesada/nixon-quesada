@@ -25,7 +25,7 @@ Languages & Tools:
 - Data Analytics
 - Supervised & Unsupervised Learning
 - Feature Engineering & Model Evaluation
-- Linear Algebra, Statistics, Probability, Calculus and Information Theor
+- Linear Algebra, Statistics, Probability, Calculus and Information Theory
 
 
 
