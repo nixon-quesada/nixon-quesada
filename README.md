@@ -3,7 +3,7 @@
 
 ### **🧠 About Me**
 
-I'm an undergraduate in Electronics Engineering at Rizal Technological University, Philippines, with a growing passion for data science and its power to uncover structure in complexity.
+I'm an Electronics Engineering, studied at Rizal Technological University, Philippines, with a growing passion for data science and its power to uncover structure in complexity.
 
 I see technology not merely as a tool, but as a framework for understanding the world — and data, its language. My academic path is shaped by a deep interest in applying mathematical reasoning and computational thinking to solve real-world problems.
 
