@@ -3,7 +3,7 @@
 #
 
 I am an Artificial Intelligence enthusiast:
-- with a Electronics Engineer and Electronics Technician Licesnse.
+- with an Electronics Engineer and Electronics Technician Licesnse.
 - I'm a lifelong learner, I am very passionate about AI and it's impact to our society.
 - Driven by a vision to harness the power of data to spark innovation, solve the world’s toughest challenges, and shape a smarter, more connected future through impactful, real-world solutions.
 
