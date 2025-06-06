@@ -7,7 +7,7 @@ I am an Artificial Intelligence enthusiast:
 - Lifelong learner, I am very passionate about AI and it's impact to our society.
 - Driven by a vision to harness the power of data to spark innovation, solve the world’s toughest challenges, and shape a smarter, more connected future through impactful, real-world solutions.
 
-I love doing Machine Learning projects or joing Kaggle Competitions on my spare time as a part of continuous learning process.
+I love doing Machine Learning projects or Engineering projects mostly from students or startups as a side hustle and joing Kaggle Competitions on my spare time as a part of continuous learning process.
 
 Thank you for visiting my GitHub Page!
 
