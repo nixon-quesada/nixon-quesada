@@ -1,4 +1,3 @@
-
 ![Banner](https://github.com/user-attachments/assets/cdd09e8b-9ca1-48ba-bcd9-52d653a4e120)
 #
 
@@ -35,7 +34,7 @@ Thank you for visiting my GitHub Page!
 
 | **Tools**  | **Project Title** | **Link** |
 | :---: | --- | :---: |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br> ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)<br>|Loan Approval Machine Learning Project: Learning Classification using XGBoost and SHAP|[Notebook](https://github.com/nixon-quesada/Loan-Approval-Machine-Learning/blob/main/Loan%20Approval%20Machine%20Learning/notebook/Loan%20Approval%20System.ipynb)<br> [Repository](https://github.com/nixon-quesada/Loan-Approval-Machine-Learning/tree/main)|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br> ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)<br>|Loan Approval Machine Learning Project: Learning Classification using XGBoost and SHAP|[Notebook](https://github.com/nixon-quesada/Loan-Approval-Machine-Learning/blob/main/Loan%20Approval%20Machine%20Learning/notebook/Loan%20Approval%20System.ipynb)<br> [Repository]()|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br> ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)<br>|Discovering Global Patterns in Cancer Mortality Across Countries Via Clustering Analysis|[Notebook]()<br> [Repository]()|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br> ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)<br>|Identifying Contributing Factors for Countries With High Cancer Rates Using Classification Algorithms With Class Imbalance Treatment|[Notebook]()<br> [Repository]()|
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br> ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)<br>|Uncovering Underlying Constructs of Chronic Disease Indicators Across US States Using Exploratory and Confirmatory Factor Analyses|[Notebook]()<br> [Repository]()|
