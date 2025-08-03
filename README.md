@@ -50,6 +50,16 @@ Thank you for visiting my GitHub Page!
 | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)|Uncovering Genre Preferences and Content Trends in Streaming Media Platforms Through Visual Analysis of Netflix Data|[Dashboard]()|
 | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)|Monitoring Personal Financial Health Through Interactive Dashboards for Expense Tracking and Budget Optimization|[Dashboard]()|
 
+#### Data Analytics Excel Projects
+
+| **Tools**  | **Project Title** | **Link** |
+| :---: | --- | :---: |
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Food Business Calculator|[xlsx]()<br>[Repository]()|
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Payroll Management Tracker|[xlsx]()<br>[Repository]()|
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Project Management Tracker|[xlsx]()<br>[Repository]()|
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|PC Build Calculator|[xlsx]()<br>[Repository]()|
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Student Grade Analytics and Tracker|[xlsx]()<br>[Repository]()|
+
 #### Certifications
 
 | **Tools**  | **Certification Title** | **Link** |
