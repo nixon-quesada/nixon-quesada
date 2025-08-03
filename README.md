@@ -45,20 +45,20 @@ Thank you for visiting my GitHub Page!
 | **Tools**  | **Project Title** | **Link** |
 | :---: | --- | :---: |
 | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)|Emerson x DAPH National Data Challenge: Manufacturing Dashboard|[Dashboard]()<br> [Repository](https://github.com/nixon-quesada/Emerson-x-DAPH-National-Data-Challenge-Manufacturing-Dashboard)|
-| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)| Visualizing Global Trends in COVID-19 Cases and Mortality Rates Using Interactive Dashboards and Public Health Data APIs|[Dashboard]()|
-| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)| Exploratory Analysis of Airbnb Listings and Pricing Strategies Using Geospatial and Temporal Dashboard Visualizations|[Dashboard]()|
-| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)|Uncovering Genre Preferences and Content Trends in Streaming Media Platforms Through Visual Analysis of Netflix Data|[Dashboard]()|
-| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)|Monitoring Personal Financial Health Through Interactive Dashboards for Expense Tracking and Budget Optimization|[Dashboard]()|
+| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)| Visualizing Global Trends in COVID-19 Cases and Mortality Rates Using Interactive Dashboards and Public Health Data APIs|[Dashboard]()<br>[Repository]()||
+| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)| Exploratory Analysis of Airbnb Listings and Pricing Strategies Using Geospatial and Temporal Dashboard Visualizations|[Dashboard]()<br>[Repository]()||
+| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)|Uncovering Genre Preferences and Content Trends in Streaming Media Platforms Through Visual Analysis of Netflix Data|[Dashboard]()<br>[Repository]()||
+| ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>[<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)|Monitoring Personal Financial Health Through Interactive Dashboards for Expense Tracking and Budget Optimization|[Dashboard]()<br>[Repository]()||
 
 #### Data Analytics Excel Projects
 
 | **Tools**  | **Project Title** | **Link** |
 | :---: | --- | :---: |
-| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Food Business Calculator|[xlsx]()<br>[Repository]()|
-| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Payroll Management Tracker|[xlsx]()<br>[Repository]()|
-| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Project Management Tracker|[xlsx]()<br>[Repository]()|
-| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|PC Build Calculator|[xlsx]()<br>[Repository]()|
-| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Student Grade Analytics and Tracker|[xlsx]()<br>[Repository]()|
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Food Business Calculator|[Showcase]()<br>[Repository]()|
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Payroll Management Tracker|[Showcase]()<br>[Repository]()|
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Project Management Tracker|[Showcase]()<br>[Repository]()|
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|PC Build Calculator|[showcase]()<br>[Repository]()|
+| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>|Student Grade Analytics and Tracker|[Showcase]()<br>[Repository]()|
 
 #### Certifications
 
