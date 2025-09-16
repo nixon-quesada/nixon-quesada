@@ -1,12 +1,10 @@
 ![Banner](https://github.com/user-attachments/assets/cdd09e8b-9ca1-48ba-bcd9-52d653a4e120)
 #
 
-I am an Artificial Intelligence enthusiast:
-- with an Electronics Engineer and Electronics Technician License.
-- Lifelong learner, I am very passionate about AI and it's impact to our society.
-- Driven by a vision to harness the power of data to spark innovation, solve the world’s toughest challenges, and shape a smarter, more connected future through impactful, real-world solutions.
-
-I love doing Machine Learning projects or Engineering projects mostly from students or startups as a side hustle and joing Kaggle Competitions on my spare time as a part of continuous learning process.
+Data Analyst and Licensed Electronics Engineer with expertise in Python, SQL, Power BI, and
+Machine Learning. Experienced in building interactive dashboards, predictive models, and
+AI-driven solutions that improve operational efficiency. Certified in advanced data
+analytics and AI, with a proven ability to translate complex data into actionable insights
 
 Thank you for visiting my GitHub Page!
 
